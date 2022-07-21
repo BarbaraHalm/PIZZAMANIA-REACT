@@ -1,0 +1,41 @@
+.navbar-site{
+    background-color: #3c0631;
+    border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-learn{
+    color: blueviolet;
+    font-weight: bold;
+
+}
+.navbar-site .navbar-brand{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.carousel-web1{   
+    height: 550px;
+}
+
+.josh{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.menu{
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.write{
+    font-style: italic;
+}
+
+.footer{
+    background-color: #3c0631;
+    padding: 1.5rem 0;
+    color: white;
+}
+
+
